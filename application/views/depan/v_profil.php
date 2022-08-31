@@ -19,26 +19,46 @@
                                 SMP Negeri 6 Nekamese memiliki NPSN/NSS 69763275/201240102007. <br>
                                 Awalnya sekolah ini dikenal dengan nama SMP Negeri 3 Nekamese, kemudian mengalami
                                 perubahan nomenklatur dengan Surat Keputusan Bupati Kupang tahun 2016 menjadi
-                                SMP Negeri 6 Nekamese. <br><br>
-                                Nama Sekolah : SMP Negeri 6 Nekamese <br>
-                                Nama Kepala sekolah: Lidyasih widyanti, S.Pd <br>
-                                NPSN/NSS : 69763275/201 240 102007 <br>
-                                AlamatSekolah : Jl. H. R. Koroh Km 11 Desa Oelomin kecamatan Nekamese<br>
-                                Tahun Pendirian : 15 Agustus 2011<br>
-                                Tahun Beroperasi : 2012<br>
-                                Kepemilikan Tanah : Pemerintah<br>
-                                a. Status Tanah : Sertifikat<br>
-                                b. Luas tanah : 7,353,5 meter peresegi<br><br>
-                                Tenaga pendidik : <br>
-                                PNS sebanyak 9 orang <br>
-                                GTT sebanya 5 orang <br>
-                                PTT sebanyak 3 orang <br>
-                                Peserta Didik terbagi dalam enam ( 6 ) rombongan belajar dengan masing masingg kelas
-                                7, 8 dan 9 dua kelas.</p>
-                            <p align="justify">Terimakasih bapak dan ibu guru, peserta didik serta seluruh warga SMPN 6 Nekamese atas kerjasama yang baik. Kiranya Tuhan Yang Maha Kuasa senantiasa memberikan rahmat, berkat dan perlindunganNya agar kita bisa tetap maju, walau selangkah demi selangkah, tapi langkah itu tetap menuju ke depan membawa anak anak didik kita ke arah yang semakin baik. </p>
-                            <p><br>
+                                SMP Negeri 6 Nekamese. <br>
                             </p>
                         </center>
+                        <table style="color: #7d84ab;">
+                            <tr>
+                                <th>Nama Sekolah</th>
+                                <th> : SMP Negeri 6 Nekamese </th>
+                            </tr>
+                            <tr>
+                                <th>Nama Kepala sekolah<br></th>
+                                <th>: Lidyasih widyanti, S.Pd <br></th>
+                            </tr>
+                            <tr>
+                                <th>NPSN/NSS <br></th>
+                                <th>: 69763275/201 240 102007<br></th>
+                            </tr>
+                            <tr>
+                                <th>
+                                    Alamat Sekolah <br>
+                                </th>
+                                <th>
+                                    : Jl. H. R. Koroh Km 11 Desa Oelomin kecamatan Nekamese<br>
+                                </th>
+                            </tr>
+                            <tr>
+                                <th>Tahun Pendirian <br></th>
+                                <th>: 15 Agustus 2011<br></th>
+                            </tr>
+                            <tr>
+                                <th>
+                                    Tahun Beroperasi <br>
+                                </th>
+                                <th>
+                                    : 2012<br>
+                                </th>
+                            </tr>
+                        </table>
+                        <p align="justify">Terimakasih bapak dan ibu guru, peserta didik serta seluruh warga SMPN 6 Nekamese atas kerjasama yang baik. Kiranya Tuhan Yang Maha Kuasa senantiasa memberikan rahmat, berkat dan perlindunganNya agar kita bisa tetap maju, walau selangkah demi selangkah, tapi langkah itu tetap menuju ke depan membawa anak anak didik kita ke arah yang semakin baik. </p>
+                        <p><br>
+                        </p>
                     </div>
                 </div>
             </div>
