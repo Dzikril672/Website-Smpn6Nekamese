@@ -24,7 +24,7 @@ function limit_words($string, $word_limit)
                 <div class="blog_left_sidebar">
 
 
-                    <?php echo $this->session->flashdata('msg'); ?>
+                    <!-- <?php echo $this->session->flashdata('msg'); ?> -->
 
                     <?php foreach ($data->result() as $row) : ?>
                         <article class="blog_item">

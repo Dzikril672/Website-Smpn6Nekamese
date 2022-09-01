@@ -39,7 +39,7 @@ class Login extends CI_Controller{
 
        }else{
          echo $this->session->set_flashdata('msg','<div class="alert alert-danger" role="alert"><button type="button" class="close" data-dismiss="alert"><span class="fa fa-close"></span></button> Username Atau Password Salah</div>');
-         redirect('admin/v_login');
+         redirect('admin/login');
        }
 
     }

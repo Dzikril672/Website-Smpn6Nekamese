@@ -38,7 +38,7 @@
                     <h1 class="h4 text-gray-900 mb-4">Hanya Untuk Administrator Website!</h1>
                   </div>
                     
-                    <p><?php echo $this->session->flashdata('msg');?></p>
+                    <!-- <p><?php echo $this->session->flashdata('msg');?></p> -->
                     
                   <form action="<?php echo site_url().'admin/login/auth'?>" method="post">
                     <div class="form-group">
@@ -57,6 +57,7 @@
                     <hr>
                   </form>
                   <hr>
+                  <a href="<?php echo site_url('home'); ?>">Keluar</a>
                 </div>
               </div>
             </div>
